@@ -13,10 +13,10 @@ router.get('/allcourses', (req, res) =>{
 router.get('/course', (req, res) => {
     fs.readFile('database.json', (err, data) => {
         const courses = JSON.parse(data);
-        courses.filter(name =>{
+        const singleCourse = courses.filter(name =>{
             return name.name == req.query.course;
         })
-        res.json(courses);
+        res.json(singleCourse);
     });
 })
 
