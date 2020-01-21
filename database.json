@@ -1,70 +1,72 @@
-{
-    "name": "Cooking",
-    "price": 4,
-    "description": "Learn how to cook with the best professors",
-    "rating": 4.5,
-    "provider": "MIT"
-},
-{
-    "name": "Astrophysics",
-    "price": 20,
-    "description": "Astrophysics for the bold",
-    "rating": 4.9,
-    "provider": "Yale"
-},
-{
-    "name": "Calculus",
-    "price": 44,
-    "description": "Not for the faint of heart",
-    "rating": 5,
-    "provider": "Isaac Newton"
-},
-{
-    "name": "Neuroscience",
-    "price": 110,
-    "description": "Advanced neuroscience",
-    "rating": 4.8,
-    "provider": "Harvard"
-},
-{
-    "name": "Machine Learning 101",
-    "price": 58,
-    "description": "Getting started with the basic fundamentals of ML",
-    "rating": 4.3,
-    "provider": "UCLA"
-},
-{
-    "name": "Anatomy",
-    "price": 19,
-    "description": "Basic anatomy for doctors",
-    "rating": 4,
-    "provider": "Oxford"
-},
-{
-    "name": "Triple integrals of spherical coordinates",
-    "price": 200,
-    "description": "This is some advanced stuff",
-    "rating": 4.9,
-    "provider": "The librarian"
-},
-{
-    "name": "How to become an MMR Assasin",
-    "price": 1337,
-    "description": "Improve your game with the best mmr assasin on the planet",
-    "rating": 5,
-    "provider": "JFluxie"
-},
-{
-    "name": "Thinking like an electric sheep",
-    "price": 10,
-    "description": "Transform into the ultimate machine",
-    "rating": 5,
-    "provider": "Dyrone Evans"
-},
-{
-    "name": "Masterchef",
-    "price": 279,
-    "description": "Learn how to cook with the best cook in the world",
-    "rating": 5,
-    "provider": "Gordon Ramsay"
-},
+[
+    {
+        "name": "Cooking",
+        "price": 4,
+        "description": "Learn how to cook with the best professors",
+        "rating": 4.5,
+        "provider": "MIT"
+    },
+    {
+        "name": "Astrophysics",
+        "price": 20,
+        "description": "Astrophysics for the bold",
+        "rating": 4.9,
+        "provider": "Yale"
+    },
+    {
+        "name": "Calculus",
+        "price": 44,
+        "description": "Not for the faint of heart",
+        "rating": 5,
+        "provider": "Isaac Newton"
+    },
+    {
+        "name": "Neuroscience",
+        "price": 110,
+        "description": "Advanced neuroscience",
+        "rating": 4.8,
+        "provider": "Harvard"
+    },
+    {
+        "name": "Machine Learning 101",
+        "price": 58,
+        "description": "Getting started with the basic fundamentals of ML",
+        "rating": 4.3,
+        "provider": "UCLA"
+    },
+    {
+        "name": "Anatomy",
+        "price": 19,
+        "description": "Basic anatomy for doctors",
+        "rating": 4,
+        "provider": "Oxford"
+    },
+    {
+        "name": "Triple integrals of spherical coordinates",
+        "price": 200,
+        "description": "This is some advanced stuff",
+        "rating": 4.9,
+        "provider": "The librarian"
+    },
+    {
+        "name": "How to become an MMR Assasin",
+        "price": 1337,
+        "description": "Improve your game with the best mmr assasin on the planet",
+        "rating": 5,
+        "provider": "JFluxie"
+    },
+    {
+        "name": "Thinking like an electric sheep",
+        "price": 10,
+        "description": "Transform into the ultimate machine",
+        "rating": 5,
+        "provider": "Dyrone Evans"
+    },
+    {
+        "name": "Masterchef",
+        "price": 279,
+        "description": "Learn how to cook with the best cook in the world",
+        "rating": 5,
+        "provider": "Gordon Ramsay"
+    }
+]
